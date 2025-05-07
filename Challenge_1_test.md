@@ -40,7 +40,7 @@ The testing will focus on validating complete workflows from the perspective of 
 ### Task 2 High-Level Test Scenarios
 
 #### Registration and Login
-1. Register as user (Mentor/Mentee)
+1. Register as user (Mentor/Mentee) 
 2. Login as user (Mentor/Mentee)
 3. Failed Login (Incorrect Password/Forgot Password)
 4. Failed Login (Non-existent User)
